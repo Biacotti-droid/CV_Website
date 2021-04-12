@@ -1,2 +1,3 @@
-# Resume-CV-Design-19m20
-How to create the Resume CV Design
+Code developed for learning purposes;
+Website not responsive;
+Languages: HTML & CSS;
